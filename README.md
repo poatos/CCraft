@@ -13,17 +13,36 @@
 		- ## Quality of life
 			- [Reese's Sodium Options](https://github.com/FlashyReese/reeses-sodium-options) - more settings in the settings menu.
 			- Sodium Extra - more configurable sodium.
+			- [AntiGhost](https://www.curseforge.com/minecraft/mc-mods/antighost) - removes ghost blocks.
+			- [Debugify](https://isxander.dev) - fixes a lot of bugs and disables telemetry.
+			- [Main Menu Credits](https://isxander.dev) - custom text on the main menu screen.
+			- [Mod Menu](https://minecraft.curseforge.com/projects/modmenu) - lets you see and configure mods in-game.
+			- [Mouse Tweaks](https://www.curseforge.com/minecraft/mc-mods/mouse-tweaks) - tweaks how the mouse interacts with the inventory
+			- [No Fade](https://www.curseforge.com/minecraft/mc-mods/no-fade) - removes the fade out screen when loading in/ changing texture packs.
+			- [Not Enough Crashes](https://www.curseforge.com/minecraft/mc-mods/not-enough-crashes) - if the game crashes it wont be fatal most of the time.
+			- [Roughly Enough Items](https://www.curseforge.com/minecraft/mc-mods/roughly-enough-items) - See how to craft everything.
+			- [Xaero's Minimap](https://www.curseforge.com/minecraft/mc-mods/xaeros-minimap) - minimap in the top left.
+			- [Xaero's World Map](https://www.curseforge.com/minecraft/mc-mods/xaeros-world-map) - a fullscreen world map that you can open with 'm'
+			- [Zoomify](https://isxander.dev) - optifine's zoom but better.
 		- ## Performance
 			- [c2me](https://modrinth.com/mod/c2me-fabric) - multi threaded chunk generation.
 			- [FerriteCore](https://www.curseforge.com/minecraft/mc-mods/ferritecore-fabric) - Ram Reduction
 			- [Lithium](https://jellysquid.me/projects/) - misc improvements
 			- Sodium - Rendering improvements
 			- [Starlight](https://www.curseforge.com/minecraft/mc-mods/starlight) - Light engine optimizations
+			- [Better Beds](https://www.midnightdust.eu/) - improves rendering of beds.
+			- [Enhanced Block Entities](https://github.com/FoundationGames/EnhancedBlockEntities/blob/116_indev/README.md) - faster block entity rendering.
+			- [EntityCulling-Fabric](https://github.com/tr7zw/EntityCulling-Fabric) - out of sight = not rendered
+			- [FastChest](https://domi.re/mc-mods/fastchest) - makes chests render faster
+			- [It Shall Not Tick](https://www.curseforge.com/minecraft/mc-mods/it-shall-not-tick) - stops unnecessary ticking of blocks.
+			- Krypton - networking optimizations
+			- LazyDFU - Makes DataFixerUpper more lazy
+			- [memory Leak Fix](https://github.com/fxmorin/memoryleakfix) - fixes a few memory leaks
+			- [Smooth Boot](https://www.curseforge.com/minecraft/mc-mods/smooth-boot) - improved cpu scheduling
 		- ## Dependencies
 			- [Architectury](https://architectury.github.io/architectury-documentations/) - library
 			- [Fabric API](https://fabricmc.net) - library
 			- [Indium](https://modrinth.com/mod/indium) - sodium compatibility lib for fabric rendering api (required by Bits & Chisels)
-			-
 	- # Datapacks
 		- ## Quality of life
 			- [Chunk loader](https://github.com/2mal3/Chunk-Loader-Datapack#readme) - nice fuel-based chunk loader. requires 3 redstone dust per minute of operation.
