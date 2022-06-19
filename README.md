@@ -1,4 +1,4 @@
-- # Structure
+- # Minecraft Version 1.18.2. Fabric version 0.14.7 (tested).
 	- # Mods
 		- ## Decoration
 			- [BitsAndChisels](https://github.com/CoolMineman/BitsAndChisels) - adds the ability to carve out 1/16th of a block and place them
@@ -46,3 +46,4 @@
 	- # Datapacks
 		- ## Quality of life
 			- [Chunk loader](https://github.com/2mal3/Chunk-Loader-Datapack#readme) - nice fuel-based chunk loader. requires 3 redstone dust per minute of operation.
+				- **currently making a mod to replace this as turtles cannot place them.**
