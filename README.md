@@ -3,8 +3,7 @@
 ### Decoration
 - [BitsAndChisels](https://github.com/CoolMineman/BitsAndChisels) - adds the ability to carve out 1/16th of a block and place them
 - [Chisel Refabricated](https://www.curseforge.com/minecraft/mc-mods/fabric-chisel) - converts new blocks to variant blocks that have different textures.
-- [Consistency Plus](https://www.curseforge.com/minecraft/mc-mods/consistency) - adds some strange things but mostly just decoration blocks.
-- Colorstone - can assign a different color to different strengths of redstone. (can remove)
+- Colorstone - can assign a different color to different strengths of redstone. (Non-vital)
 ### Tech
 - [CC: Restitched](https://github.com/cc-tweaked/cc-restitched) - Computer Craft for fabric
 - [Red Bits](http://darktree.net/) - new redstone components
